@@ -1,0 +1,141 @@
+<w:tr>
+		<w:trPr>
+			<w:trHeight w:val="284" />
+		</w:trPr>
+		<w:tc>
+			<w:tcPr>
+				<w:tcW w:w="299" w:type="pct" />
+				<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+				<w:vAlign w:val="center" />
+			</w:tcPr>
+			<w:p>
+				<w:pPr>
+					<w:widowControl w:val="off" />
+					<w:autoSpaceDE w:val="off" />
+					<w:autoSpaceDN w:val="off" />
+					<w:jc w:val="center" />
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="22" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="22" />
+					</w:rPr>
+					<w:t>[stt_index]</w:t>
+				</w:r>
+			</w:p>
+		</w:tc>
+		<w:tc>
+			<w:tcPr>
+				<w:tcW w:w="1417" w:type="pct" />
+				<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+				<w:vAlign w:val="center" />
+			</w:tcPr>
+			<w:p>
+				<w:pPr>
+					<w:widowControl w:val="off" />
+					<w:autoSpaceDE w:val="off" />
+					<w:autoSpaceDN w:val="off" />
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="22" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="22" />
+					</w:rPr>
+					<w:t>[ten_index]</w:t>
+				</w:r>
+			</w:p>
+		</w:tc>
+		<w:tc>
+			<w:tcPr>
+				<w:tcW w:w="926" w:type="pct" />
+				<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+				<w:vAlign w:val="center" />
+			</w:tcPr>
+			<w:p>
+				<w:pPr>
+					<w:widowControl w:val="off" />
+					<w:autoSpaceDE w:val="off" />
+					<w:autoSpaceDN w:val="off" />
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="22" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="22" />
+					</w:rPr>
+					<w:t>[loai_index]</w:t>
+				</w:r>
+			</w:p>
+		</w:tc>
+		<w:tc>
+			<w:tcPr>
+				<w:tcW w:w="1284" w:type="pct" />
+				<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+				<w:vAlign w:val="center" />
+			</w:tcPr>
+			<w:p>
+				<w:pPr>
+					<w:widowControl w:val="off" />
+					<w:autoSpaceDE w:val="off" />
+					<w:autoSpaceDN w:val="off" />
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="22" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="22" />
+					</w:rPr>
+					<w:t>[ten_bang_co_index]</w:t>
+				</w:r>
+			</w:p>
+		</w:tc>
+		<w:tc>
+			<w:tcPr>
+				<w:tcW w:w="1074" w:type="pct" />
+				<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+				<w:vAlign w:val="center" />
+			</w:tcPr>
+			<w:p>
+				<w:pPr>
+					<w:widowControl w:val="off" />
+					<w:autoSpaceDE w:val="off" />
+					<w:autoSpaceDN w:val="off" />
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="22" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="22" />
+					</w:rPr>
+					<w:t>[ten_cot_lam_index]</w:t>
+				</w:r>
+			</w:p>
+		</w:tc>
+	</w:tr>

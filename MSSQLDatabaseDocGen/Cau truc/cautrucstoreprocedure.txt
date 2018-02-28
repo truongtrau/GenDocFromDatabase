@@ -1,0 +1,95 @@
+﻿<w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading111" />
+          <w:listPr>
+            <wx:t wx:val="5.1.1" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+          <w:ind w:left="1260" />
+        </w:pPr>
+        <w:r>
+          <w:t>[ten_sp]</w:t>
+        </w:r>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading11" />
+          <w:listPr>
+            <w:ilvl w:val="0" />
+            <w:ilfo w:val="4" />
+            <wx:t wx:val="·" wx:wTabBefore="495" wx:wTabAfter="240" />
+            <wx:font wx:val="Symbol" />
+          </w:listPr>
+          <w:rPr>
+            <w:color w:val="auto" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:color w:val="auto" />
+          </w:rPr>
+          <w:t>Đầu vào:</w:t>
+        </w:r>
+      </w:p>
+       <w:tbl>
+        <w:tblPr>
+          <w:tblStyle w:val="TableGrid" />
+          <w:tblW w:w="0" w:type="auto" />
+          <w:tblInd w:w="828" w:type="dxa" />
+          <w:tblBorders>
+            <w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+            <w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+            <w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+            <w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+            <w:insideH w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+            <w:insideV w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+          </w:tblBorders>
+          <w:tblLayout w:type="Fixed" />
+          <w:tblLook w:val="01E0" />
+        </w:tblPr>
+        <w:tblGrid>
+          <w:gridCol w:w="3247" />
+          <w:gridCol w:w="3428" />
+        </w:tblGrid>
+       [hang]
+       </w:tbl>
+        <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading11" />
+          <w:listPr>
+            <w:ilvl w:val="0" />
+            <w:ilfo w:val="4" />
+            <wx:t wx:val="·" wx:wTabBefore="495" wx:wTabAfter="240" />
+            <wx:font wx:val="Symbol" />
+          </w:listPr>
+          <w:rPr>
+            <w:color w:val="auto" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:color w:val="auto" />
+          </w:rPr>
+          <w:t>Đầu ra:[dau_ra] </w:t>
+        </w:r>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading11" />
+          <w:listPr>
+            <w:ilvl w:val="0" />
+            <w:ilfo w:val="4" />
+            <wx:t wx:val="·" wx:wTabBefore="495" wx:wTabAfter="240" />
+            <wx:font wx:val="Symbol" />
+          </w:listPr>
+          <w:rPr>
+            <w:color w:val="auto" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:color w:val="auto" />
+          </w:rPr>
+          <w:t>Mô tả:[mo_ta] </w:t>
+        </w:r>
+      </w:p>

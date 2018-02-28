@@ -1,0 +1,28 @@
+<w:tr>
+		<w:trPr>
+			<w:trHeight w:h-rule="exact" w:val="395" />
+		</w:trPr>
+		<w:tc>
+			<w:tcPr>
+				<w:tcW w:w="3247" w:type="dxa" />
+				<w:vAlign w:val="center" />
+			</w:tcPr>
+			<w:p>
+				
+				<w:r>
+					<w:t>[ten_bien]</w:t>
+				</w:r>
+			</w:p>
+		</w:tc>
+		<w:tc>
+			<w:tcPr>
+				<w:tcW w:w="3428" w:type="dxa" />
+				<w:vAlign w:val="center" />
+			</w:tcPr>
+			<w:p>
+				<w:r>
+					<w:t>[kieu_bien]</w:t>
+				</w:r>
+			</w:p>
+		</w:tc>
+	</w:tr>

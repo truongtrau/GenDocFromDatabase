@@ -1,0 +1,119 @@
+﻿<w:tbl>
+  <w:tblPr>
+    <w:tblW w:w="5000" w:type="pct" />
+    <w:tblBorders>
+      <w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+      <w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+      <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+      <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+      <w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+      <w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+    </w:tblBorders>
+    <w:tblCellMar>
+      <w:left w:w="70" w:type="dxa" />
+      <w:right w:w="70" w:type="dxa" />
+    </w:tblCellMar>
+  </w:tblPr>
+  <w:tblGrid>
+    <w:gridCol w:w="1186" />
+    <w:gridCol w:w="3484" />
+    <w:gridCol w:w="6534" />
+  </w:tblGrid>
+  <w:tr>
+    <w:trPr>
+      <w:trHeight w:val="244" />
+      <w:tblHeader />
+    </w:trPr>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="529" w:type="pct" />
+        <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+        <w:vAlign w:val="center" />
+      </w:tcPr>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="Table-ColHead" />
+          <w:jc w:val="center" />
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+            <wx:font wx:val="Times New Roman" />
+            <w:snapToGrid w:val="off" />
+            <w:sz w:val="22" />
+            <w:sz-cs w:val="22" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+            <wx:font wx:val="Times New Roman" />
+            <w:snapToGrid w:val="off" />
+            <w:sz w:val="22" />
+            <w:sz-cs w:val="22" />
+          </w:rPr>
+          <w:t>STT</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="1555" w:type="pct" />
+        <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+        <w:vAlign w:val="center" />
+      </w:tcPr>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="Table-ColHead" />
+          <w:jc w:val="center" />
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+            <wx:font wx:val="Times New Roman" />
+            <w:snapToGrid w:val="off" />
+            <w:sz w:val="22" />
+            <w:sz-cs w:val="22" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+            <wx:font wx:val="Times New Roman" />
+            <w:snapToGrid w:val="off" />
+            <w:sz w:val="22" />
+            <w:sz-cs w:val="22" />
+          </w:rPr>
+          <w:t>Tên View</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+    <w:tc>
+      <w:tcPr>
+        <w:tcW w:w="2916" w:type="pct" />
+        <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+        <w:vAlign w:val="center" />
+      </w:tcPr>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="Table-ColHead" />
+          <w:jc w:val="center" />
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+            <wx:font wx:val="Times New Roman" />
+            <w:snapToGrid w:val="off" />
+            <w:sz w:val="22" />
+            <w:sz-cs w:val="22" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+            <wx:font wx:val="Times New Roman" />
+            <w:snapToGrid w:val="off" />
+            <w:sz w:val="22" />
+            <w:sz-cs w:val="22" />
+          </w:rPr>
+          <w:t>Mô tả</w:t>
+        </w:r>
+      </w:p>
+    </w:tc>
+  </w:tr>
+  [hang]
+</w:tbl>

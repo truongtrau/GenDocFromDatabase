@@ -1,0 +1,4565 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
+  <o:SmartTagType o:namespaceuri="urn:schemas-microsoft-com:office:smarttags" o:url="http://www.5iantlavalamp.com/" o:name="place" />
+  <o:SmartTagType o:namespaceuri="urn:schemas-microsoft-com:office:smarttags" o:url="http://www.5iantlavalamp.com/" o:name="country-region" />
+  <o:DocumentProperties>
+    <o:Title>THIẾT KẾ CƠ SỞ DỮ LIỆU </o:Title>
+    <o:Author>anhsang84</o:Author>
+    <o:LastAuthor>anhsang84</o:LastAuthor>
+    <o:Revision>9</o:Revision>
+    <o:TotalTime>9</o:TotalTime>
+    <o:Created>2009-04-08T08:14:00Z</o:Created>
+    <o:LastSaved>2009-04-13T02:55:00Z</o:LastSaved>
+    <o:Pages>1</o:Pages>
+    <o:Words>177</o:Words>
+    <o:Characters>1011</o:Characters>
+    <o:Company>TINHVAN</o:Company>
+    <o:Lines>8</o:Lines>
+    <o:Paragraphs>2</o:Paragraphs>
+    <o:CharactersWithSpaces>1186</o:CharactersWithSpaces>
+    <o:Version>11.5604</o:Version>
+  </o:DocumentProperties>
+  <w:fonts>
+    <w:defaultFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" />
+  </w:fonts>
+  <w:lists>
+    <w:listDef w:listDefId="0">
+      <w:lsid w:val="10A131DD" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="6F326992" />
+      <w:lvl w:ilvl="0" w:tplc="EB187AB6">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="360" />
+          </w:tabs>
+          <w:ind w:left="360" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="1">
+      <w:lsid w:val="24CE3618" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="D3FAA890" />
+      <w:lvl w:ilvl="0" w:tplc="7BCCDB36">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="360" />
+          </w:tabs>
+          <w:ind w:left="360" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="2">
+      <w:lsid w:val="2AD67BE4" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="6AF00158" />
+      <w:lvl w:ilvl="0" w:tplc="E1423B96">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="360" />
+          </w:tabs>
+          <w:ind w:left="360" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="3">
+      <w:lsid w:val="48B462CD" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="D20E0DCA" />
+      <w:lvl w:ilvl="0" w:tplc="0409000F">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="540" />
+          </w:tabs>
+          <w:ind w:left="540" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1260" />
+          </w:tabs>
+          <w:ind w:left="1260" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1980" />
+          </w:tabs>
+          <w:ind w:left="1980" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2700" />
+          </w:tabs>
+          <w:ind w:left="2700" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3420" />
+          </w:tabs>
+          <w:ind w:left="3420" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4140" />
+          </w:tabs>
+          <w:ind w:left="4140" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4860" />
+          </w:tabs>
+          <w:ind w:left="4860" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5580" />
+          </w:tabs>
+          <w:ind w:left="5580" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6300" />
+          </w:tabs>
+          <w:ind w:left="6300" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="4">
+      <w:lsid w:val="59763BE8" />
+      <w:plt w:val="Multilevel" />
+      <w:tmpl w:val="FC726D2C" />
+      <w:lvl w:ilvl="0">
+        <w:start w:val="1" />
+        <w:pStyle w:val="tvHeading1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="360" />
+          </w:tabs>
+          <w:ind w:left="360" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1">
+        <w:start w:val="1" />
+        <w:pStyle w:val="tvHeading11" />
+        <w:suff w:val="Space" />
+        <w:lvlText w:val="%1.%2" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:ind w:left="574" w:hanging="432" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2">
+        <w:start w:val="1" />
+        <w:pStyle w:val="tvHeading111" />
+        <w:suff w:val="Space" />
+        <w:lvlText w:val="%1.%2.%3" />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:ind w:left="1072" w:hanging="504" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1.%2.%3.%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1728" />
+          </w:tabs>
+          <w:ind w:left="1728" w:hanging="648" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1.%2.%3.%4.%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2232" />
+          </w:tabs>
+          <w:ind w:left="2232" w:hanging="792" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1.%2.%3.%4.%5.%6." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2736" />
+          </w:tabs>
+          <w:ind w:left="2736" w:hanging="936" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1.%2.%3.%4.%5.%6.%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3240" />
+          </w:tabs>
+          <w:ind w:left="3240" w:hanging="1080" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1.%2.%3.%4.%5.%6.%7.%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3744" />
+          </w:tabs>
+          <w:ind w:left="3744" w:hanging="1224" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1.%2.%3.%4.%5.%6.%7.%8.%9." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="1440" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:listDef w:listDefId="5">
+      <w:lsid w:val="70C577DE" />
+      <w:plt w:val="HybridMultilevel" />
+      <w:tmpl w:val="C1988FEE" />
+      <w:lvl w:ilvl="0" w:tplc="454A956C">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%1." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="360" />
+          </w:tabs>
+          <w:ind w:left="360" w:hanging="360" />
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:hint="default" />
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%2." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="1440" />
+          </w:tabs>
+          <w:ind w:left="1440" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%3." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2160" />
+          </w:tabs>
+          <w:ind w:left="2160" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%4." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="2880" />
+          </w:tabs>
+          <w:ind w:left="2880" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%5." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="3600" />
+          </w:tabs>
+          <w:ind w:left="3600" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%6." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="4320" />
+          </w:tabs>
+          <w:ind w:left="4320" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="0409000F" w:tentative="on">
+        <w:start w:val="1" />
+        <w:lvlText w:val="%7." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5040" />
+          </w:tabs>
+          <w:ind w:left="5040" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090019" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="4" />
+        <w:lvlText w:val="%8." />
+        <w:lvlJc w:val="left" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="5760" />
+          </w:tabs>
+          <w:ind w:left="5760" w:hanging="360" />
+        </w:pPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="0409001B" w:tentative="on">
+        <w:start w:val="1" />
+        <w:nfc w:val="2" />
+        <w:lvlText w:val="%9." />
+        <w:lvlJc w:val="right" />
+        <w:pPr>
+          <w:tabs>
+            <w:tab w:val="list" w:pos="6480" />
+          </w:tabs>
+          <w:ind w:left="6480" w:hanging="180" />
+        </w:pPr>
+      </w:lvl>
+    </w:listDef>
+    <w:list w:ilfo="1">
+      <w:ilst w:val="3" />
+    </w:list>
+    <w:list w:ilfo="2">
+      <w:ilst w:val="4" />
+    </w:list>
+    <w:list w:ilfo="3">
+      <w:ilst w:val="5" />
+    </w:list>
+    <w:list w:ilfo="4">
+      <w:ilst w:val="1" />
+    </w:list>
+    <w:list w:ilfo="5">
+      <w:ilst w:val="0" />
+    </w:list>
+    <w:list w:ilfo="6">
+      <w:ilst w:val="2" />
+    </w:list>
+  </w:lists>
+  <w:styles>
+    <w:versionOfBuiltInStylenames w:val="4" />
+    <w:latentStyles w:defLockedState="off" w:latentStyleCount="156" />
+    <w:style w:type="paragraph" w:default="on" w:styleId="Normal">
+      <w:name w:val="Normal" />
+      <w:rsid w:val="002370D4" />
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+        <w:sz w:val="24" />
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:default="on" w:styleId="DefaultParagraphFont">
+      <w:name w:val="Default Paragraph Font" />
+      <w:semiHidden />
+    </w:style>
+    <w:style w:type="table" w:default="on" w:styleId="TableNormal">
+      <w:name w:val="Normal Table" />
+      <wx:uiName wx:val="Table Normal" />
+      <w:semiHidden />
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+      </w:rPr>
+      <w:tblPr>
+        <w:tblInd w:w="0" w:type="dxa" />
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa" />
+          <w:left w:w="108" w:type="dxa" />
+          <w:bottom w:w="0" w:type="dxa" />
+          <w:right w:w="108" w:type="dxa" />
+        </w:tblCellMar>
+      </w:tblPr>
+    </w:style>
+    <w:style w:type="list" w:default="on" w:styleId="NoList">
+      <w:name w:val="No List" />
+      <w:semiHidden />
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Header">
+      <w:name w:val="header" />
+      <wx:uiName wx:val="Header" />
+      <w:basedOn w:val="Normal" />
+      <w:rsid w:val="002370D4" />
+      <w:pPr>
+        <w:pStyle w:val="Header" />
+        <w:tabs>
+          <w:tab w:val="center" w:pos="4320" />
+          <w:tab w:val="right" w:pos="8640" />
+        </w:tabs>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Footer">
+      <w:name w:val="footer" />
+      <wx:uiName wx:val="Footer" />
+      <w:basedOn w:val="Normal" />
+      <w:rsid w:val="002370D4" />
+      <w:pPr>
+        <w:pStyle w:val="Footer" />
+        <w:tabs>
+          <w:tab w:val="center" w:pos="4320" />
+          <w:tab w:val="right" w:pos="8640" />
+        </w:tabs>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Hyperlink">
+      <w:name w:val="Hyperlink" />
+      <w:basedOn w:val="DefaultParagraphFont" />
+      <w:rsid w:val="002370D4" />
+      <w:rPr>
+        <w:color w:val="0000FF" />
+        <w:u w:val="single" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="tvHeading">
+      <w:name w:val="tvHeading" />
+      <w:basedOn w:val="Normal" />
+      <w:link w:val="tvHeadingChar" />
+      <w:rsid w:val="002370D4" />
+      <w:pPr>
+        <w:pStyle w:val="tvHeading" />
+        <w:keepLines />
+        <w:pageBreakBefore />
+        <w:tabs>
+          <w:tab w:val="left" w:pos="2160" />
+          <w:tab w:val="right" w:pos="5040" />
+          <w:tab w:val="left" w:pos="5760" />
+          <w:tab w:val="right" w:pos="8640" />
+        </w:tabs>
+        <w:spacing w:before="480" w:after="240" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+        <w:b />
+        <w:b-cs />
+        <w:caps />
+        <w:color w:val="003400" />
+        <w:sz w:val="28" />
+        <w:sz-cs w:val="24" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="tvNote">
+      <w:name w:val="tvNote" />
+      <w:basedOn w:val="tvHeading" />
+      <w:link w:val="tvNoteChar" />
+      <w:autoRedefine />
+      <w:rsid w:val="002370D4" />
+      <w:pPr>
+        <w:pStyle w:val="tvNote" />
+        <w:keepLines w:val="off" />
+        <w:pageBreakBefore w:val="off" />
+        <w:tabs>
+          <w:tab w:val="clear" w:pos="2160" />
+          <w:tab w:val="clear" w:pos="5040" />
+          <w:tab w:val="clear" w:pos="5760" />
+          <w:tab w:val="clear" w:pos="8640" />
+        </w:tabs>
+        <w:spacing w:before="120" w:after="120" />
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+        <w:b w:val="off" />
+        <w:b-cs w:val="off" />
+        <w:i />
+        <w:i-cs />
+        <w:caps w:val="off" />
+        <w:color w:val="0000FF" />
+        <w:sz w:val="24" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="tvPtype">
+      <w:name w:val="tvPtype" />
+      <w:basedOn w:val="Normal" />
+      <w:rsid w:val="002370D4" />
+      <w:pPr>
+        <w:pStyle w:val="tvPtype" />
+        <w:widowControl w:val="off" />
+        <w:spacing w:before="120" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+        <w:b />
+        <w:b-cs />
+        <w:i />
+        <w:i-cs />
+        <w:color w:val="6E2500" />
+        <w:spacing w:val="30" />
+        <w:sz w:val="40" />
+        <w:sz-cs w:val="32" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="tvHeadingChar">
+      <w:name w:val="tvHeading Char" />
+      <w:basedOn w:val="DefaultParagraphFont" />
+      <w:link w:val="tvHeading" />
+      <w:rsid w:val="002370D4" />
+      <w:rPr>
+        <w:b />
+        <w:b-cs />
+        <w:caps />
+        <w:color w:val="003400" />
+        <w:sz w:val="28" />
+        <w:sz-cs w:val="24" />
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="tvNoteChar">
+      <w:name w:val="tvNote Char" />
+      <w:basedOn w:val="tvHeadingChar" />
+      <w:link w:val="tvNote" />
+      <w:rsid w:val="002370D4" />
+      <w:rPr>
+        <w:b />
+        <w:b-cs />
+        <w:i />
+        <w:i-cs />
+        <w:caps />
+        <w:color w:val="0000FF" />
+        <w:sz w:val="24" />
+        <w:sz-cs w:val="24" />
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="tvTable-row1">
+      <w:name w:val="tvTable-row1" />
+      <w:basedOn w:val="Normal" />
+      <w:rsid w:val="002370D4" />
+      <w:pPr>
+        <w:pStyle w:val="tvTable-row1" />
+        <w:keepLines />
+        <w:spacing w:before="120" w:after="120" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+        <w:b />
+        <w:b-cs />
+        <w:color w:val="6E2500" />
+        <w:sz-cs w:val="24" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="PageNumber">
+      <w:name w:val="page number" />
+      <wx:uiName wx:val="Page Number" />
+      <w:basedOn w:val="DefaultParagraphFont" />
+      <w:rsid w:val="002370D4" />
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="tvHeading1">
+      <w:name w:val="tvHeading 1" />
+      <w:basedOn w:val="Normal" />
+      <w:rsid w:val="002370D4" />
+      <w:pPr>
+        <w:pStyle w:val="tvHeading1" />
+        <w:listPr>
+          <w:ilfo w:val="2" />
+        </w:listPr>
+        <w:spacing w:before="360" w:after="120" />
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+        <w:b />
+        <w:b-cs />
+        <w:color w:val="800000" />
+        <w:sz-cs w:val="24" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="tvHeading11">
+      <w:name w:val="tvHeading 1.1" />
+      <w:basedOn w:val="Normal" />
+      <w:rsid w:val="002370D4" />
+      <w:pPr>
+        <w:pStyle w:val="tvHeading11" />
+        <w:listPr>
+          <w:ilvl w:val="1" />
+          <w:ilfo w:val="2" />
+        </w:listPr>
+        <w:spacing w:before="240" w:after="120" />
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+        <w:b />
+        <w:b-cs />
+        <w:color w:val="000080" />
+        <w:sz-cs w:val="24" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="tvHeading111">
+      <w:name w:val="tvHeading 1.1.1" />
+      <w:basedOn w:val="Normal" />
+      <w:rsid w:val="002370D4" />
+      <w:pPr>
+        <w:pStyle w:val="tvHeading111" />
+        <w:listPr>
+          <w:ilvl w:val="2" />
+          <w:ilfo w:val="2" />
+        </w:listPr>
+        <w:spacing w:before="120" w:after="120" />
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+        <w:b />
+        <w:b-cs />
+        <w:i />
+        <w:i-cs />
+        <w:sz-cs w:val="24" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Table-Text">
+      <w:name w:val="Table - Text" />
+      <w:basedOn w:val="Normal" />
+      <w:autoRedefine />
+      <w:rsid w:val="002370D4" />
+      <w:pPr>
+        <w:pStyle w:val="Table-Text" />
+        <w:spacing w:before="60" w:after="60" />
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Times New Roman" />
+        <w:color w:val="0000FF" />
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Table-ColHead">
+      <w:name w:val="Table - Col. Head" />
+      <w:basedOn w:val="Normal" />
+      <w:rsid w:val="002370D4" />
+      <w:pPr>
+        <w:pStyle w:val="Table-ColHead" />
+        <w:keepNext />
+        <w:spacing w:before="60" w:after="60" />
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Arial" w:h-ansi="Arial" />
+        <wx:font wx:val="Arial" />
+        <w:b />
+        <w:noProof />
+        <w:sz w:val="18" />
+      </w:rPr>
+    </w:style>
+  </w:styles>
+  <w:shapeDefaults>
+    <o:shapedefaults v:ext="edit" spidmax="13314" />
+    <o:shapelayout v:ext="edit">
+      <o:idmap v:ext="edit" data="1" />
+    </o:shapelayout>
+  </w:shapeDefaults>
+  <w:docPr>
+    <w:view w:val="print" />
+    <w:zoom w:percent="90" />
+    <w:doNotEmbedSystemFonts />
+    <w:hideSpellingErrors />
+    <w:hideGrammaticalErrors />
+    <w:attachedTemplate w:val="" />
+    <w:defaultTabStop w:val="720" />
+    <w:punctuationKerning />
+    <w:characterSpacingControl w:val="DontCompress" />
+    <w:optimizeForBrowser />
+    <w:validateAgainstSchema />
+    <w:saveInvalidXML w:val="off" />
+    <w:ignoreMixedContent w:val="off" />
+    <w:alwaysShowPlaceholderText w:val="off" />
+    <w:hdrShapeDefaults>
+      <o:shapedefaults v:ext="edit" spidmax="13314" />
+    </w:hdrShapeDefaults>
+    <w:footnotePr>
+      <w:footnote w:type="separator">
+        <w:p>
+          <w:r>
+            <w:separator />
+          </w:r>
+        </w:p>
+      </w:footnote>
+      <w:footnote w:type="continuation-separator">
+        <w:p>
+          <w:r>
+            <w:continuationSeparator />
+          </w:r>
+        </w:p>
+      </w:footnote>
+    </w:footnotePr>
+    <w:endnotePr>
+      <w:endnote w:type="separator">
+        <w:p>
+          <w:r>
+            <w:separator />
+          </w:r>
+        </w:p>
+      </w:endnote>
+      <w:endnote w:type="continuation-separator">
+        <w:p>
+          <w:r>
+            <w:continuationSeparator />
+          </w:r>
+        </w:p>
+      </w:endnote>
+    </w:endnotePr>
+    <w:compat>
+      <w:breakWrappedTables />
+      <w:snapToGridInCell />
+      <w:wrapTextWithPunct />
+      <w:useAsianBreakRules />
+      <w:dontGrowAutofit />
+    </w:compat>
+  </w:docPr>
+  <w:body>
+    <wx:sect>
+      <aml:annotation aml:id="0" w:type="Word.Bookmark.Start" w:name="_Toc161628423" />
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading" />
+          <w:spacing w:before="1560" w:after="120" />
+          <w:rPr>
+            <w:color w:val="000080" />
+            <w:sz w:val="48" />
+            <w:sz-cs w:val="48" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:rPr>
+            <w:color w:val="000080" />
+            <w:sz w:val="48" />
+            <w:sz-cs w:val="48" />
+          </w:rPr>
+          <w:t>THIẾT KẾ </w:t>
+        </w:r>
+        <aml:annotation aml:id="0" w:type="Word.Bookmark.End" />
+        <w:r>
+          <w:rPr>
+            <w:color w:val="000080" />
+            <w:sz w:val="48" />
+            <w:sz-cs w:val="48" />
+          </w:rPr>
+          <w:t>CƠ SỞ DỮ LIỆU </w:t>
+        </w:r>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvPtype" />
+          <w:rPr>
+            <w:color w:val="000080" />
+          </w:rPr>
+        </w:pPr>
+        <w:r>
+          <w:t>&lt;TÊN DỰ ÁN&gt; </w:t>
+        </w:r>
+      </w:p>
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:tbl>
+        <w:tblPr>
+          <w:tblW w:w="5220" w:type="dxa" />
+          <w:tblInd w:w="2443" w:type="dxa" />
+        </w:tblPr>
+        <w:tblGrid>
+          <w:gridCol w:w="2700" />
+          <w:gridCol w:w="2520" />
+        </w:tblGrid>
+        <w:tr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2700" w:type="dxa" />
+              <w:vAlign w:val="bottom" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="240" />
+                <w:rPr>
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+                <w:t>Tác giả</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2520" w:type="dxa" />
+              <w:tcBorders>
+                <w:bottom w:val="dash-small-gap" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:vAlign w:val="bottom" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="240" />
+                <w:rPr>
+                  <w:b />
+                  <w:b-cs />
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2700" w:type="dxa" />
+              <w:vAlign w:val="bottom" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="240" />
+                <w:rPr>
+                  <w:sz w:val="28" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+                <w:t>Ngày công bố</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2520" w:type="dxa" />
+              <w:tcBorders>
+                <w:top w:val="dash-small-gap" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:vAlign w:val="bottom" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="240" />
+                <w:rPr>
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:b-cs />
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+                <w:t>___ / ___ /___</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2700" w:type="dxa" />
+              <w:vAlign w:val="bottom" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="240" />
+                <w:rPr>
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+                <w:t>Project Manager</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2520" w:type="dxa" />
+              <w:tcBorders>
+                <w:bottom w:val="dash-small-gap" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:vAlign w:val="bottom" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="240" />
+                <w:rPr>
+                  <w:b />
+                  <w:b-cs />
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2700" w:type="dxa" />
+              <w:vAlign w:val="bottom" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="240" />
+                <w:rPr>
+                  <w:sz w:val="28" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+                <w:t>Project Leader</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2520" w:type="dxa" />
+              <w:tcBorders>
+                <w:top w:val="dash-small-gap" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:bottom w:val="dash-small-gap" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:vAlign w:val="bottom" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="240" />
+                <w:rPr>
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2700" w:type="dxa" />
+              <w:vAlign w:val="bottom" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="240" />
+                <w:rPr>
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+                <w:t>Phiên bản</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2520" w:type="dxa" />
+              <w:tcBorders>
+                <w:top w:val="dash-small-gap" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:bottom w:val="dash-small-gap" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+              <w:vAlign w:val="bottom" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="240" />
+                <w:rPr>
+                  <w:b />
+                  <w:b-cs />
+                  <w:i />
+                  <w:i-cs />
+                  <w:color w:val="000080" />
+                  <w:sz w:val="28" />
+                </w:rPr>
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+      </w:tbl>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvNote" />
+        </w:pPr>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvNote" />
+        </w:pPr>
+      </w:p>
+      <w:p>
+        <w:pPr>
+          <w:sectPr>
+            <w:hdr w:type="odd">
+              <w:tbl>
+                <w:tblPr>
+                  <w:tblW w:w="5000" w:type="pct" />
+                  <w:jc w:val="center" />
+                  <w:tblBorders>
+                    <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                  </w:tblBorders>
+                </w:tblPr>
+                <w:tblGrid>
+                  <w:gridCol w:w="2605" />
+                  <w:gridCol w:w="4670" />
+                  <w:gridCol w:w="3945" />
+                </w:tblGrid>
+                <w:tr>
+                  <w:trPr>
+                    <w:cantSplit />
+                    <w:trHeight w:val="378" />
+                    <w:jc w:val="center" />
+                  </w:trPr>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="1161" w:type="pct" />
+                      <w:vmerge w:val="restart" />
+                      <w:tcBorders>
+                        <w:top w:val="nil" />
+                        <w:left w:val="nil" />
+                        <w:bottom w:val="nil" />
+                        <w:right w:val="nil" />
+                      </w:tcBorders>
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Header" />
+                        <w:jc w:val="center" />
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:b />
+                          <w:b-cs />
+                          <w:color w:val="0000FF" />
+                          <w:sz-cs w:val="24" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:b />
+                          <w:sz-cs w:val="24" />
+                          <w:lang w:val="PL" />
+                        </w:rPr>
+                        <w:pict>
+                          <v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+                            <v:stroke joinstyle="miter" />
+                            <v:formulas>
+                              <v:f eqn="if lineDrawn pixelLineWidth 0" />
+                              <v:f eqn="sum @0 1 0" />
+                              <v:f eqn="sum 0 0 @1" />
+                              <v:f eqn="prod @2 1 2" />
+                              <v:f eqn="prod @3 21600 pixelWidth" />
+                              <v:f eqn="prod @3 21600 pixelHeight" />
+                              <v:f eqn="sum @0 0 1" />
+                              <v:f eqn="prod @6 1 2" />
+                              <v:f eqn="prod @7 21600 pixelWidth" />
+                              <v:f eqn="sum @8 21600 0" />
+                              <v:f eqn="prod @7 21600 pixelHeight" />
+                              <v:f eqn="sum @10 21600 0" />
+                            </v:formulas>
+                            <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect" />
+                            <o:lock v:ext="edit" aspectratio="t" />
+                          </v:shapetype>
+                          <w:binData w:name="wordml://02000001.jpg">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
+TCJhF//Z
+</w:binData>
+                          <v:shape id="_x0000_i1025" type="#_x0000_t75" style="width:96.3pt;height:62.8pt">
+                            <v:imagedata src="wordml://02000001.jpg" o:title="Logo_TinhVan_xam" />
+                          </v:shape>
+                        </w:pict>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="3839" w:type="pct" />
+                      <w:gridSpan w:val="2" />
+                      <w:tcBorders>
+                        <w:top w:val="nil" />
+                        <w:left w:val="nil" />
+                        <w:bottom w:val="nil" />
+                        <w:right w:val="nil" />
+                      </w:tcBorders>
+                      <w:shd w:val="clear" w:color="auto" w:fill="E0E0E0" />
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Header" />
+                        <w:shd w:val="clear" w:color="auto" w:fill="E0E0E0" />
+                        <w:jc w:val="center" />
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz-cs w:val="24" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:b />
+                          <w:b-cs />
+                          <w:sz-cs w:val="24" />
+                        </w:rPr>
+                        <w:t>CÔNG TY CỔ PHẦN CÔNG NGHỆ  TINH VÂN</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                </w:tr>
+                <w:tr>
+                  <w:trPr>
+                    <w:cantSplit />
+                    <w:trHeight w:val="1070" />
+                    <w:jc w:val="center" />
+                  </w:trPr>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="1161" w:type="pct" />
+                      <w:vmerge />
+                      <w:tcBorders>
+                        <w:top w:val="nil" />
+                        <w:left w:val="nil" />
+                        <w:bottom w:val="nil" />
+                        <w:right w:val="nil" />
+                      </w:tcBorders>
+                      <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:b />
+                          <w:b-cs />
+                          <w:color w:val="0000FF" />
+                        </w:rPr>
+                      </w:pPr>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="2081" w:type="pct" />
+                      <w:tcBorders>
+                        <w:top w:val="nil" />
+                        <w:left w:val="nil" />
+                        <w:bottom w:val="nil" />
+                        <w:right w:val="nil" />
+                      </w:tcBorders>
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Header" />
+                        <w:spacing w:before="40" />
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:b />
+                          <w:b-cs />
+                          <w:color w:val="333399" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:b />
+                          <w:b-cs />
+                          <w:color w:val="333399" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t>Trụ Sở chính</w:t>
+                      </w:r>
+                    </w:p>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Header" />
+                        <w:spacing w:before="40" />
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t>Tầng 8, KS Thể thao, Làng Sinh viên Hacinco  Quận Thanh Xuân, Hà Nội</w:t>
+                      </w:r>
+                    </w:p>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Header" />
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                          <w:lang w:val="PT-BR" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                          <w:lang w:val="PT-BR" />
+                        </w:rPr>
+                        <w:t>Tel: +84-4- 5589970,  Fax: 5589971</w:t>
+                      </w:r>
+                    </w:p>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Header" />
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:b />
+                          <w:b-cs />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                          <w:lang w:val="PT-BR" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                          <w:lang w:val="PT-BR" />
+                        </w:rPr>
+                        <w:t>E-mail: </w:t>
+                      </w:r>
+                      <w:hlink w:dest="mailto:info@tinhvan.com">
+                        <w:r>
+                          <w:rPr>
+                            <w:rStyle w:val="Hyperlink" />
+                            <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                            <wx:font wx:val="Arial" />
+                            <w:b />
+                            <w:sz w:val="18" />
+                            <w:sz-cs w:val="18" />
+                            <w:lang w:val="PT-BR" />
+                          </w:rPr>
+                          <w:t>info@tinhvan.com</w:t>
+                        </w:r>
+                      </w:hlink>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="1758" w:type="pct" />
+                      <w:tcBorders>
+                        <w:top w:val="nil" />
+                        <w:left w:val="nil" />
+                        <w:bottom w:val="nil" />
+                        <w:right w:val="nil" />
+                      </w:tcBorders>
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Header" />
+                        <w:spacing w:before="40" />
+                        <w:ind w:hanging="64" />
+                        <w:jc w:val="right" />
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:b />
+                          <w:b-cs />
+                          <w:color w:val="333399" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:b />
+                          <w:b-cs />
+                          <w:color w:val="333399" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t>Chi nhánh Tinh Vân Miền </w:t>
+                      </w:r>
+                      <st1:place w:st="on">
+                        <st1:country-region w:st="on">
+                          <w:r>
+                            <w:rPr>
+                              <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                              <wx:font wx:val="Arial" />
+                              <w:b />
+                              <w:b-cs />
+                              <w:color w:val="333399" />
+                              <w:sz w:val="18" />
+                              <w:sz-cs w:val="18" />
+                            </w:rPr>
+                            <w:t>Nam</w:t>
+                          </w:r>
+                        </st1:country-region>
+                      </st1:place>
+                    </w:p>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Header" />
+                        <w:spacing w:before="40" />
+                        <w:ind w:hanging="64" />
+                        <w:jc w:val="right" />
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t>06 Bàu Cát 1, phường 14,</w:t>
+                      </w:r>
+                    </w:p>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Header" />
+                        <w:spacing w:before="40" />
+                        <w:ind w:hanging="64" />
+                        <w:jc w:val="right" />
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t>Quận Tân Bình, Tp. HCM</w:t>
+                      </w:r>
+                    </w:p>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Header" />
+                        <w:spacing w:before="40" />
+                        <w:ind w:hanging="64" />
+                        <w:jc w:val="right" />
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t>Tel: +84-8-</w:t>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:color w:val="000000" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t>2966481</w:t>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t>, Fax.:</w:t>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:color w:val="000000" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t>+84-8-2966482</w:t>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t> </w:t>
+                      </w:r>
+                    </w:p>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Header" />
+                        <w:jc w:val="right" />
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t>E-mail: </w:t>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:b />
+                          <w:color w:val="0000FF" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t>hcm@tinhvan.com</w:t>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t>   </w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                </w:tr>
+                <w:tr>
+                  <w:trPr>
+                    <w:trHeight w:val="260" />
+                    <w:jc w:val="center" />
+                  </w:trPr>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="1161" w:type="pct" />
+                      <w:tcBorders>
+                        <w:top w:val="nil" />
+                        <w:left w:val="nil" />
+                        <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                        <w:right w:val="nil" />
+                      </w:tcBorders>
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Header" />
+                        <w:jc w:val="center" />
+                        <w:rPr>
+                          <w:i />
+                          <w:i-cs />
+                          <w:sz-cs w:val="24" />
+                        </w:rPr>
+                      </w:pPr>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="3839" w:type="pct" />
+                      <w:gridSpan w:val="2" />
+                      <w:tcBorders>
+                        <w:top w:val="nil" />
+                        <w:left w:val="nil" />
+                        <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                        <w:right w:val="nil" />
+                      </w:tcBorders>
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Header" />
+                        <w:spacing w:before="40" />
+                        <w:ind w:hanging="64" />
+                        <w:jc w:val="center" />
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:b />
+                          <w:b-cs />
+                          <w:color w:val="333399" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" />
+                          <wx:font wx:val="Arial" />
+                          <w:b />
+                          <w:b-cs />
+                          <w:color w:val="0000FF" />
+                          <w:sz w:val="18" />
+                          <w:sz-cs w:val="18" />
+                        </w:rPr>
+                        <w:t>www.tinhvan.com                                   www.vinaseek.com </w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                </w:tr>
+              </w:tbl>
+              <w:p>
+                <w:pPr>
+                  <w:pStyle w:val="Header" />
+                </w:pPr>
+              </w:p>
+            </w:hdr>
+            <w:ftr w:type="odd">
+              <w:tbl>
+                <w:tblPr>
+                  <w:tblW w:w="5000" w:type="pct" />
+                  <w:tblBorders>
+                    <w:top w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="800000" />
+                  </w:tblBorders>
+                  <w:tblLook w:val="01E0" />
+                </w:tblPr>
+                <w:tblGrid>
+                  <w:gridCol w:w="3631" />
+                  <w:gridCol w:w="5924" />
+                  <w:gridCol w:w="1665" />
+                </w:tblGrid>
+                <w:tr>
+                  <w:trPr>
+                    <w:trHeight w:val="396" />
+                  </w:trPr>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="1618" w:type="pct" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Footer" />
+                        <w:spacing w:before="40" w:after="40" />
+                        <w:rPr>
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:t>Công ty Tinh Vân</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="2640" w:type="pct" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Footer" />
+                        <w:spacing w:before="40" w:after="40" />
+                        <w:rPr>
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                      </w:pPr>
+                    </w:p>
+                  </w:tc>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="742" w:type="pct" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Footer" />
+                        <w:spacing w:before="40" w:after="40" />
+                        <w:jc w:val="right" />
+                        <w:rPr>
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:t>Trang: </w:t>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rStyle w:val="PageNumber" />
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:fldChar w:fldCharType="begin" />
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rStyle w:val="PageNumber" />
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:instrText> PAGE </w:instrText>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rStyle w:val="PageNumber" />
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:fldChar w:fldCharType="separate" />
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rStyle w:val="PageNumber" />
+                          <w:i />
+                          <w:noProof />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:t>5</w:t>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rStyle w:val="PageNumber" />
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:fldChar w:fldCharType="end" />
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rStyle w:val="PageNumber" />
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:t> / </w:t>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rStyle w:val="PageNumber" />
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:fldChar w:fldCharType="begin" />
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rStyle w:val="PageNumber" />
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:instrText> NUMPAGES </w:instrText>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rStyle w:val="PageNumber" />
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:fldChar w:fldCharType="separate" />
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rStyle w:val="PageNumber" />
+                          <w:i />
+                          <w:noProof />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:t>5</w:t>
+                      </w:r>
+                      <w:r>
+                        <w:rPr>
+                          <w:rStyle w:val="PageNumber" />
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:fldChar w:fldCharType="end" />
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                </w:tr>
+                <w:tr>
+                  <w:trPr>
+                    <w:trHeight w:val="147" />
+                  </w:trPr>
+                  <w:tc>
+                    <w:tcPr>
+                      <w:tcW w:w="5000" w:type="pct" />
+                      <w:gridSpan w:val="3" />
+                    </w:tcPr>
+                    <w:p>
+                      <w:pPr>
+                        <w:pStyle w:val="Footer" />
+                        <w:spacing w:before="40" w:after="40" />
+                        <w:rPr>
+                          <w:i />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                      </w:pPr>
+                      <w:r>
+                        <w:rPr>
+                          <w:i />
+                          <w:noProof />
+                          <w:sz w:val="20" />
+                        </w:rPr>
+                        <w:t>BM_[CN_PTTK]_TKDL – 1.1</w:t>
+                      </w:r>
+                    </w:p>
+                  </w:tc>
+                </w:tr>
+              </w:tbl>
+              <w:p />
+            </w:ftr>
+            <w:pgSz w:w="12240" w:h="15840" />
+            <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="720" w:footer="720" w:gutter="0" />
+            <w:cols w:space="720" />
+            <w:docGrid w:line-pitch="360" />
+          </w:sectPr>
+        </w:pPr>
+      </w:p>
+    </wx:sect>
+    <wx:sect>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading" />
+          <w:spacing w:before="240" />
+        </w:pPr>
+        <w:r>
+          <w:t>TRANG KÝ NHẬN</w:t>
+        </w:r>
+      </w:p>
+      <w:tbl>
+        <w:tblPr>
+          <w:tblW w:w="5000" w:type="pct" />
+        </w:tblPr>
+        <w:tblGrid>
+          <w:gridCol w:w="2190" />
+          <w:gridCol w:w="4789" />
+          <w:gridCol w:w="1140" />
+          <w:gridCol w:w="3083" />
+          <w:gridCol w:w="18" />
+        </w:tblGrid>
+        <w:tr>
+          <w:trPr>
+            <w:cantSplit />
+            <w:trHeight w:val="375" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="976" w:type="pct" />
+              <w:vmerge w:val="restart" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>TÁC GIẢ</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2134" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>……………………………....................</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1890" w:type="pct" />
+              <w:gridSpan w:val="3" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>Ngày tháng:____/____/ 20___</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:trPr>
+            <w:cantSplit />
+            <w:trHeight w:val="710" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="976" w:type="pct" />
+              <w:vmerge />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2134" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>Vai trò: …………………………….......</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="508" w:type="pct" />
+              <w:tcBorders>
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>Ký tên </w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1382" w:type="pct" />
+              <w:gridSpan w:val="2" />
+              <w:tcBorders>
+                <w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:trPr>
+            <w:cantSplit />
+            <w:trHeight w:val="187" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="976" w:type="pct" />
+              <w:vmerge />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2134" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1890" w:type="pct" />
+              <w:gridSpan w:val="3" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:trPr>
+            <w:cantSplit />
+            <w:trHeight w:val="510" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="976" w:type="pct" />
+              <w:vmerge w:val="restart" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>KIỂM TRA</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2134" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>……………………………....................</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1890" w:type="pct" />
+              <w:gridSpan w:val="3" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>Ngày tháng:____/____/ 20___</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:trPr>
+            <w:gridAfter w:val="1" />
+            <w:wAfter w:w="8" w:type="pct" />
+            <w:cantSplit />
+            <w:trHeight w:val="300" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="976" w:type="pct" />
+              <w:vmerge />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2134" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>Vai trò: …………………………….......</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="508" w:type="pct" />
+              <w:tcBorders>
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>Ký tên </w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1374" w:type="pct" />
+              <w:tcBorders>
+                <w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+            </w:tcPr>
+            <w:p />
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:trPr>
+            <w:cantSplit />
+            <w:trHeight w:val="195" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="976" w:type="pct" />
+              <w:vmerge />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2134" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1890" w:type="pct" />
+              <w:gridSpan w:val="3" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:trPr>
+            <w:cantSplit />
+            <w:trHeight w:val="195" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="976" w:type="pct" />
+              <w:vmerge w:val="restart" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>THÔNG QUA</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2134" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>……………………………....................</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1890" w:type="pct" />
+              <w:gridSpan w:val="3" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>Ngày tháng:____/____/ 20___</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:trPr>
+            <w:cantSplit />
+            <w:trHeight w:val="195" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="976" w:type="pct" />
+              <w:vmerge />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2134" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Header" />
+                <w:tabs>
+                  <w:tab w:val="clear" w:pos="4320" />
+                  <w:tab w:val="clear" w:pos="8640" />
+                </w:tabs>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>Vai trò: …………………………….......</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="508" w:type="pct" />
+              <w:tcBorders>
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+              <w:r>
+                <w:t>Ký tên </w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1382" w:type="pct" />
+              <w:gridSpan w:val="2" />
+              <w:tcBorders>
+                <w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+                <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+              </w:tcBorders>
+            </w:tcPr>
+            <w:p />
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+      </w:tbl>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading" />
+          <w:pageBreakBefore w:val="off" />
+        </w:pPr>
+        <w:r>
+          <w:br w:type="page" />
+          <w:t>cÁC PHIÊN BẢN </w:t>
+        </w:r>
+      </w:p>
+      <w:tbl>
+        <w:tblPr>
+          <w:tblW w:w="5000" w:type="pct" />
+          <w:tblBorders>
+            <w:top w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+            <w:left w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+            <w:bottom w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+            <w:right w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+            <w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+            <w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+          </w:tblBorders>
+          <w:tblLook w:val="01E0" />
+        </w:tblPr>
+        <w:tblGrid>
+          <w:gridCol w:w="2048" />
+          <w:gridCol w:w="2099" />
+          <w:gridCol w:w="7043" />
+        </w:tblGrid>
+        <w:tr>
+          <w:trPr>
+            <w:tblHeader />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="915" w:type="pct" />
+              <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="tvTable-row1" />
+                <w:spacing w:before="0" w:after="0" />
+                <w:rPr>
+                  <w:color w:val="auto" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:color w:val="auto" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+                <w:t>Ngày</w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="tvTable-row1" />
+                <w:spacing w:before="0" w:after="0" />
+                <w:rPr>
+                  <w:color w:val="auto" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:color w:val="auto" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+                <w:t>(Sửa đổi)</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="938" w:type="pct" />
+              <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="tvTable-row1" />
+                <w:spacing w:before="0" w:after="0" />
+                <w:rPr>
+                  <w:color w:val="auto" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:color w:val="auto" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+                <w:t>Phiên bản </w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="3147" w:type="pct" />
+              <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="tvTable-row1" />
+                <w:spacing w:before="0" w:after="0" />
+                <w:rPr>
+                  <w:color w:val="auto" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:color w:val="auto" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+                <w:t>Nội dung sửa đổi hoặc ghi chú</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:trPr>
+            <w:trHeight w:val="390" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="915" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="938" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="3147" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:trPr>
+            <w:trHeight w:val="390" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="915" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="938" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="3147" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+      </w:tbl>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading" />
+          <w:pageBreakBefore w:val="off" />
+        </w:pPr>
+        <w:r>
+          <w:t>THUẬT NGỮ VÀ TỪ VIẾT TẮT </w:t>
+        </w:r>
+      </w:p>
+      <w:tbl>
+        <w:tblPr>
+          <w:tblW w:w="5000" w:type="pct" />
+          <w:tblBorders>
+            <w:top w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+            <w:left w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+            <w:bottom w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+            <w:right w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+            <w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+            <w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+          </w:tblBorders>
+        </w:tblPr>
+        <w:tblGrid>
+          <w:gridCol w:w="3511" />
+          <w:gridCol w:w="7679" />
+        </w:tblGrid>
+        <w:tr>
+          <w:trPr>
+            <w:tblHeader />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1569" w:type="pct" />
+              <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="tvTable-row1" />
+                <w:rPr>
+                  <w:color w:val="auto" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:color w:val="auto" />
+                </w:rPr>
+                <w:t>Thuật ngữ/Viết tắt</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="3431" w:type="pct" />
+              <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="tvTable-row1" />
+                <w:rPr>
+                  <w:color w:val="auto" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:color w:val="auto" />
+                </w:rPr>
+                <w:t>Ý nghĩa</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1569" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="3431" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1569" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="3431" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+      </w:tbl>
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading" />
+          <w:pageBreakBefore w:val="off" />
+        </w:pPr>
+        <w:r>
+          <w:t>TÀI LIỆU THAM KHẢO</w:t>
+        </w:r>
+      </w:p>
+      <w:tbl>
+        <w:tblPr>
+          <w:tblW w:w="5000" w:type="pct" />
+          <w:tblBorders>
+            <w:top w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+            <w:left w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+            <w:bottom w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+            <w:right w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="auto" />
+            <w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+            <w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+          </w:tblBorders>
+        </w:tblPr>
+        <w:tblGrid>
+          <w:gridCol w:w="1009" />
+          <w:gridCol w:w="4830" />
+          <w:gridCol w:w="5351" />
+        </w:tblGrid>
+        <w:tr>
+          <w:trPr>
+            <w:tblHeader />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="451" w:type="pct" />
+              <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="tvTable-row1" />
+                <w:rPr>
+                  <w:color w:val="auto" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:color w:val="auto" />
+                </w:rPr>
+                <w:t>STT</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2158" w:type="pct" />
+              <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="tvTable-row1" />
+                <w:rPr>
+                  <w:color w:val="auto" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:color w:val="auto" />
+                </w:rPr>
+                <w:t>Tên tài liệu</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2391" w:type="pct" />
+              <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="tvTable-row1" />
+                <w:rPr>
+                  <w:color w:val="auto" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:color w:val="auto" />
+                </w:rPr>
+                <w:t>Nguồn</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:trPr>
+            <w:trHeight w:val="525" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="451" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="1." wx:wTabBefore="180" wx:wTabAfter="180" />
+                  <wx:font wx:val="Times New Roman" />
+                </w:listPr>
+                <w:spacing w:before="120" w:after="120" />
+                <w:rPr>
+                  <w:sz-cs w:val="24" />
+                </w:rPr>
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2158" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2391" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="451" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="2." wx:wTabBefore="180" wx:wTabAfter="180" />
+                  <wx:font wx:val="Times New Roman" />
+                </w:listPr>
+                <w:spacing w:before="120" w:after="120" />
+                <w:rPr>
+                  <w:sz-cs w:val="24" />
+                </w:rPr>
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2158" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2391" w:type="pct" />
+              <w:vAlign w:val="center" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:spacing w:before="120" w:after="120" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+      </w:tbl>
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading" />
+          <w:spacing w:before="120" w:after="120" />
+        </w:pPr>
+        <w:r>
+          <w:t>MỤC LỤC</w:t>
+        </w:r>
+      </w:p>
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <w:p />
+      <aml:annotation aml:id="1" w:type="Word.Bookmark.Start" w:name="_Toc176925657" />
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading1" />
+          <w:listPr>
+            <wx:t wx:val="1." wx:wTabBefore="0" wx:wTabAfter="180" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+        </w:pPr>
+        <w:r>
+          <w:t>LƯỢC ĐỒ QUAN HỆ THỰC THỂ_ERD (Tuỳ chọn)</w:t>
+        </w:r>
+        <aml:annotation aml:id="1" w:type="Word.Bookmark.End" />
+      </w:p>
+      <aml:annotation aml:id="2" w:type="Word.Bookmark.Start" w:name="_Toc176925658" />
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading111" />
+          <w:listPr>
+            <wx:t wx:val="1.1.1" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+        </w:pPr>
+        <w:r>
+          <w:t>Lược đồ</w:t>
+        </w:r>
+        <aml:annotation aml:id="2" w:type="Word.Bookmark.End" />
+      </w:p>
+      <aml:annotation aml:id="3" w:type="Word.Bookmark.Start" w:name="_Toc141847122" />
+      <aml:annotation aml:id="4" w:type="Word.Bookmark.Start" w:name="_Toc176925659" />
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading111" />
+          <w:listPr>
+            <wx:t wx:val="1.1.2" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+        </w:pPr>
+        <w:r>
+          <w:t>Danh sách các thực thể</w:t>
+        </w:r>
+        <aml:annotation aml:id="3" w:type="Word.Bookmark.End" />
+        <aml:annotation aml:id="4" w:type="Word.Bookmark.End" />
+        <w:r>
+          <w:t> </w:t>
+        </w:r>
+      </w:p>
+      <w:tbl>
+        <w:tblPr>
+          <w:tblW w:w="5000" w:type="pct" />
+          <w:tblBorders>
+            <w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+            <w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+            <w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+            <w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+            <w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+            <w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+          </w:tblBorders>
+          <w:tblLook w:val="01E0" />
+        </w:tblPr>
+        <w:tblGrid>
+          <w:gridCol w:w="531" />
+          <w:gridCol w:w="2243" />
+          <w:gridCol w:w="3162" />
+          <w:gridCol w:w="5268" />
+        </w:tblGrid>
+        <w:tr>
+          <w:trPr>
+            <w:trHeight w:val="454" />
+            <w:tblHeader />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="237" w:type="pct" />
+              <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Table-ColHead" />
+                <w:spacing w:before="0" w:after="0" />
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                  <wx:font wx:val="Times New Roman" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                  <wx:font wx:val="Times New Roman" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+                <w:t>#</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1001" w:type="pct" />
+              <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Table-ColHead" />
+                <w:spacing w:before="0" w:after="0" />
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                  <wx:font wx:val="Times New Roman" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                  <wx:font wx:val="Times New Roman" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+                <w:t>Ký hiệu </w:t>
+              </w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Table-ColHead" />
+                <w:spacing w:before="0" w:after="0" />
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                  <wx:font wx:val="Times New Roman" />
+                  <w:b w:val="off" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                  <wx:font wx:val="Times New Roman" />
+                  <w:b w:val="off" />
+                  <w:sz-cs w:val="18" />
+                </w:rPr>
+                <w:t>(nếu có)</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1411" w:type="pct" />
+              <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Table-ColHead" />
+                <w:spacing w:before="0" w:after="0" />
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                  <wx:font wx:val="Times New Roman" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                  <wx:font wx:val="Times New Roman" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+                <w:t>Tên đầy đủ</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2352" w:type="pct" />
+              <w:shd w:val="clear" w:color="auto" w:fill="FFCC99" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Table-ColHead" />
+                <w:spacing w:before="0" w:after="0" />
+                <w:jc w:val="center" />
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                  <wx:font wx:val="Times New Roman" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" />
+                  <wx:font wx:val="Times New Roman" />
+                  <w:sz w:val="22" />
+                  <w:sz-cs w:val="22" />
+                </w:rPr>
+                <w:t>Mô tả</w:t>
+              </w:r>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:trPr>
+            <w:trHeight w:val="284" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="237" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Table-Text" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1001" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Table-Text" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1411" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Table-Text" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2352" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Table-Text" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+        <w:tr>
+          <w:trPr>
+            <w:trHeight w:val="284" />
+          </w:trPr>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="237" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Table-Text" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1001" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Table-Text" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="1411" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Table-Text" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+          <w:tc>
+            <w:tcPr>
+              <w:tcW w:w="2352" w:type="pct" />
+            </w:tcPr>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Table-Text" />
+              </w:pPr>
+            </w:p>
+          </w:tc>
+        </w:tr>
+      </w:tbl>
+      <aml:annotation aml:id="5" w:type="Word.Bookmark.Start" w:name="_Toc176925660" />
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading1" />
+          <w:listPr>
+            <wx:t wx:val="2." wx:wTabBefore="0" wx:wTabAfter="180" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+        </w:pPr>
+        <w:r>
+          <w:t>CẤU TRÚC BẢNG</w:t>
+        </w:r>
+        <aml:annotation aml:id="5" w:type="Word.Bookmark.End" />
+      </w:p>
+      <aml:annotation aml:id="6" w:type="Word.Bookmark.Start" w:name="_Toc141847125" />
+      <aml:annotation aml:id="7" w:type="Word.Bookmark.Start" w:name="_Toc176925661" />
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading11" />
+          <w:listPr>
+            <wx:t wx:val="2.1" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+          <w:ind w:left="792" />
+        </w:pPr>
+        <w:r>
+          <w:t>Lược đồ CSDL</w:t>
+        </w:r>
+        <aml:annotation aml:id="6" w:type="Word.Bookmark.End" />
+        <aml:annotation aml:id="7" w:type="Word.Bookmark.End" />
+      </w:p>
+      <aml:annotation aml:id="8" w:type="Word.Bookmark.Start" w:name="_Toc141847126" />
+      <aml:annotation aml:id="9" w:type="Word.Bookmark.Start" w:name="_Toc176925662" />
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading11" />
+          <w:listPr>
+            <wx:t wx:val="2.2" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+          <w:ind w:left="792" />
+        </w:pPr>
+        <w:r>
+          <w:t>Danh sách bảng</w:t>
+        </w:r>
+        <aml:annotation aml:id="8" w:type="Word.Bookmark.End" />
+        <aml:annotation aml:id="9" w:type="Word.Bookmark.End" />
+      </w:p>
+      <aml:annotation aml:id="10" w:type="Word.Bookmark.Start" w:name="_Toc141847127" />
+      <aml:annotation aml:id="11" w:type="Word.Bookmark.Start" w:name="_Toc176925663" />
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading11" />
+          <w:listPr>
+            <wx:t wx:val="2.3" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+          <w:ind w:left="792" />
+        </w:pPr>
+        <w:r>
+          <w:t>Mô tả bảng</w:t>
+        </w:r>
+        <aml:annotation aml:id="10" w:type="Word.Bookmark.End" />
+        <aml:annotation aml:id="11" w:type="Word.Bookmark.End" />
+      </w:p>
+      [danh_sach_bang]
+	  [chi_tiet_bang]
+      <aml:annotation aml:id="12" w:type="Word.Bookmark.Start" w:name="_Toc176925665" />
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading1" />
+          <w:listPr>
+            <wx:t wx:val="3." wx:wTabBefore="0" wx:wTabAfter="180" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+        </w:pPr>
+        <w:r>
+          <w:t>THIẾT KẾ INDEX</w:t>
+        </w:r>
+        <aml:annotation aml:id="12" w:type="Word.Bookmark.End" />
+      </w:p>
+      [danh-sach_index]
+	  <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading1" />
+          <w:listPr>
+            <wx:t wx:val="4." wx:wTabBefore="0" wx:wTabAfter="180" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+        </w:pPr>
+        <w:r>
+          <w:t>THIẾT KẾ TRIGGER (Tuỳ chọn)</w:t>
+        </w:r>
+      </w:p>
+      <aml:annotation aml:id="13" w:type="Word.Bookmark.Start" w:name="_Toc176925667" />
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading11" />
+          <w:listPr>
+            <wx:t wx:val="4.1" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+          <w:ind w:left="792" />
+        </w:pPr>
+        <w:r>
+          <w:t>Danh sách các Triggers</w:t>
+        </w:r>
+        <aml:annotation aml:id="13" w:type="Word.Bookmark.End" />
+      </w:p>
+     [danh_sach_trigger]
+      <aml:annotation aml:id="14" w:type="Word.Bookmark.Start" w:name="_Toc176925668" />
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading1" />
+          <w:listPr>
+            <wx:t wx:val="5." wx:wTabBefore="0" wx:wTabAfter="180" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+        </w:pPr>
+        <w:r>
+          <w:t>THIẾT KẾ STORED-PROCEDURE</w:t>
+        </w:r>
+        <aml:annotation aml:id="14" w:type="Word.Bookmark.End" />
+      </w:p>
+      <aml:annotation aml:id="15" w:type="Word.Bookmark.Start" w:name="_Toc176925669" />
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading11" />
+          <w:listPr>
+            <wx:t wx:val="5.1" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+          <w:ind w:left="792" />
+        </w:pPr>
+        <w:r>
+          <w:t>Danh sách các Stored-Procedure</w:t>
+        </w:r>
+        <aml:annotation aml:id="15" w:type="Word.Bookmark.End" />
+      </w:p>
+      [danh_sach_stored_procedure]
+      <w:p>
+        <w:pPr>
+          <w:pStyle w:val="tvHeading11" />
+          <w:listPr>
+            <wx:t wx:val="5.2" />
+            <wx:font wx:val="Times New Roman" />
+          </w:listPr>
+          <w:ind w:left="792" />
+        </w:pPr>
+        <w:r>
+          <w:t>Danh sách các Functions</w:t>
+        </w:r>
+      </w:p>
+      [danh_sach_functions]
+      <w:sectPr>
+        <w:hdr w:type="odd">
+          <w:tbl>
+            <w:tblPr>
+              <w:tblW w:w="5000" w:type="pct" />
+              <w:tblBorders>
+                <w:bottom w:val="single" w:sz="12" wx:bdrwidth="30" w:space="0" w:color="800000" />
+              </w:tblBorders>
+              <w:tblLook w:val="01E0" />
+            </w:tblPr>
+            <w:tblGrid>
+              <w:gridCol w:w="11220" />
+            </w:tblGrid>
+            <w:tr>
+              <w:trPr>
+                <w:trHeight w:val="147" />
+              </w:trPr>
+              <w:tc>
+                <w:tcPr>
+                  <w:tcW w:w="5000" w:type="pct" />
+                </w:tcPr>
+                <w:p>
+                  <w:pPr>
+                    <w:pStyle w:val="Footer" />
+                    <w:spacing w:before="40" w:after="40" />
+                    <w:rPr>
+                      <w:i />
+                      <w:sz w:val="20" />
+                    </w:rPr>
+                  </w:pPr>
+                  <w:r>
+                    <w:rPr>
+                      <w:i />
+                      <w:sz w:val="20" />
+                    </w:rPr>
+                    <w:t>Thiết kế cơ sở dữ liệu </w:t>
+                  </w:r>
+                </w:p>
+              </w:tc>
+            </w:tr>
+          </w:tbl>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Header" />
+            </w:pPr>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:pStyle w:val="Header" />
+            </w:pPr>
+          </w:p>
+        </w:hdr>
+        <w:pgSz w:w="12240" w:h="15840" />
+        <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="720" w:footer="720" w:gutter="0" />
+        <w:cols w:space="720" />
+        <w:docGrid w:line-pitch="360" />
+      </w:sectPr>
+    </wx:sect>
+  </w:body>
+</w:wordDocument>

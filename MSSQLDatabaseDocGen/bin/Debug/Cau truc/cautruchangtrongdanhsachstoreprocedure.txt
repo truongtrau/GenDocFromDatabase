@@ -1,0 +1,184 @@
+<w:tr>
+		<w:tblPrEx>
+			<w:tblCellMar>
+				<w:top w:w="0" w:type="dxa" />
+				<w:bottom w:w="0" w:type="dxa" />
+			</w:tblCellMar>
+		</w:tblPrEx>
+		<w:trPr>
+			<w:trHeight w:val="284" />
+		</w:trPr>
+		<w:tc>
+			<w:tcPr>
+				<w:tcW w:w="171" w:type="pct" />
+				<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+				<w:vAlign w:val="center" />
+			</w:tcPr>
+			<w:p>
+				<w:pPr>
+					<w:widowControl w:val="off" />
+					<w:autoSpaceDE w:val="off" />
+					<w:autoSpaceDN w:val="off" />
+					<w:jc w:val="center" />
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:color w:val="000000" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="16" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:color w:val="000000" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="16" />
+					</w:rPr>
+					<w:t>[stt_sp]</w:t>
+				</w:r>
+			</w:p>
+		</w:tc>
+		<w:tc>
+			<w:tcPr>
+				<w:tcW w:w="984" w:type="pct" />
+				<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+				<w:vAlign w:val="center" />
+			</w:tcPr>
+			<w:p>
+				<w:pPr>
+					<w:widowControl w:val="off" />
+					<w:autoSpaceDE w:val="off" />
+					<w:autoSpaceDN w:val="off" />
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:color w:val="000000" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="16" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:color w:val="000000" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="16" />
+					</w:rPr>
+					<w:t>[ten_sp]</w:t>
+				</w:r>
+			</w:p>
+		</w:tc>
+		<w:tc>
+			<w:tcPr>
+				<w:tcW w:w="346" w:type="pct" />
+				<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+				<w:vAlign w:val="center" />
+			</w:tcPr>
+			<w:p>
+				<w:pPr>
+					<w:widowControl w:val="off" />
+					<w:autoSpaceDE w:val="off" />
+					<w:autoSpaceDN w:val="off" />
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:color w:val="000000" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="16" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:color w:val="000000" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="16" />
+					</w:rPr>
+					<w:t>[loai]</w:t>
+				</w:r>
+			</w:p>
+		</w:tc>
+		<w:tc>
+			<w:tcPr>
+				<w:tcW w:w="804" w:type="pct" />
+				<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+			</w:tcPr>
+			<w:p>
+				<w:pPr>
+					<w:widowControl w:val="off" />
+					<w:autoSpaceDE w:val="off" />
+					<w:autoSpaceDN w:val="off" />
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:color w:val="000000" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="16" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:color w:val="000000" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="16" />
+					</w:rPr>
+					<w:t>[dau_vao]</w:t>
+				</w:r>
+			</w:p>
+		</w:tc>
+		<w:tc>
+			<w:tcPr>
+				<w:tcW w:w="804" w:type="pct" />
+				<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+			</w:tcPr>
+			<w:p>
+				<w:pPr>
+					<w:widowControl w:val="off" />
+					<w:autoSpaceDE w:val="off" />
+					<w:autoSpaceDN w:val="off" />
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:color w:val="000000" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="16" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:color w:val="000000" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="16" />
+					</w:rPr>
+					<w:t>[dau_ra]</w:t>
+				</w:r>
+			</w:p>
+		</w:tc>
+		<w:tc>
+			<w:tcPr>
+				<w:tcW w:w="1891" w:type="pct" />
+				<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+				<w:vAlign w:val="center" />
+			</w:tcPr>
+			<w:p>
+				<w:pPr>
+					<w:widowControl w:val="off" />
+					<w:autoSpaceDE w:val="off" />
+					<w:autoSpaceDN w:val="off" />
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:color w:val="000000" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="16" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:snapToGrid w:val="off" />
+						<w:color w:val="000000" />
+						<w:sz w:val="22" />
+						<w:sz-cs w:val="16" />
+					</w:rPr>
+					<w:t>[mo_ta]</w:t>
+				</w:r>
+			</w:p>
+		</w:tc>
+	</w:tr>

@@ -1,0 +1,194 @@
+<w:tr>
+	<w:trPr>
+		<w:trHeight w:val="284" />
+	</w:trPr>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="175" w:type="pct" />
+			<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+			<w:vAlign w:val="center" />
+		</w:tcPr>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Table-Text" />
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+				<w:t>[stt_cot]</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="956" w:type="pct" />
+			<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+			<w:vAlign w:val="center" />
+		</w:tcPr>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Table-Text" />
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+				<w:t>[ma_cot]</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="469" w:type="pct" />
+			<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+			<w:vAlign w:val="center" />
+		</w:tcPr>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Table-Text" />
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+				<w:t>[kieu_cot]</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="469" w:type="pct" />
+			<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+			<w:vAlign w:val="center" />
+		</w:tcPr>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Table-Text" />
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+				<w:t>[do_dai]</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="310" w:type="pct" />
+			<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+			<w:vAlign w:val="center" />
+		</w:tcPr>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Table-Text" />
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+				<w:t>[null]</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="470" w:type="pct" />
+			<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+			<w:vAlign w:val="center" />
+		</w:tcPr>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Table-Text" />
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+				<w:t>[unique]</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="289" w:type="pct" />
+			<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+			<w:vAlign w:val="center" />
+		</w:tcPr>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Table-Text" />
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+				<w:t>[key]</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="324" w:type="pct" />
+			<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+			<w:vAlign w:val="center" />
+		</w:tcPr>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Table-Text" />
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+				<w:t>[mac_dinh]</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+	<w:tc>
+		<w:tcPr>
+			<w:tcW w:w="1538" w:type="pct" />
+			<w:shd w:val="clear" w:color="auto" w:fill="FFFFFF" />
+			<w:vAlign w:val="center" />
+		</w:tcPr>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Table-Text" />
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:val="auto" />
+				</w:rPr>
+				<w:t>[mo_ta]</w:t>
+			</w:r>
+		</w:p>
+	</w:tc>
+</w:tr>
